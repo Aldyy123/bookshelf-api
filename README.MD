@@ -11,6 +11,19 @@ Create API for access Bookshelf
 
 ---
 
+
+Schema API for Book
+
+Method | Endpoint  | Description
+---------|----------|---------
+ GET | /books/ | Get All Books
+ POST | /books | Adding Book
+ GET | /books/:id | Get spefied book
+ PUT | /books/:id | Update book
+ Delete | /books/:id | Delete book
+ 
+
+---
 ### Reference
 
 - Hapi Server framework
