@@ -6,7 +6,7 @@ Create API for access Bookshelf
 
 - Clone this repository
 - Write command ``` npm install ``` for installing depedencies
-- Write command ``` npm run nodemon ``` for running server automaticly update or ``` npm start ``` for running server not auto update
+- Write command ``` npm run dev ``` for running server automaticly update or ``` npm start ``` for running server not auto update
 - Open localhost:{port}. Port information view in terminal, you can look that
 
 ---
